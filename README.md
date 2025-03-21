@@ -1,2 +1,2 @@
-Author: Tomasz Wasielewski
-Index: s24280
+- Author: Tomasz Wasielewski
+- Index: s24280
