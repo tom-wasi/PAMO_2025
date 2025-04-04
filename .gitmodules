@@ -2,6 +2,6 @@
 	path = bmi-calc
 	url = https://github.com/tom-wasi/bmi-calc.git
 
-[submodule "bmi-calc-extended]
+[submodule "bmi-calc-extended"]
 	path = bmi-calc-extended
 	url = https://github.com/tom-wasi/bmi-calc-ext.git
