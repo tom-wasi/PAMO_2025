@@ -3,5 +3,5 @@
   url = git://github.com/tom-wasi/bmi-calc.git
 
 [submodule "bmi-calc-extended"]
-	path = include/bmi-calc-extended
-	url = git://github.com/tom-wasi/bmi-calc-ext.git
+  path = include/bmi-calc-extended
+  url = git://github.com/tom-wasi/bmi-calc-ext.git
