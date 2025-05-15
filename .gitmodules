@@ -6,6 +6,6 @@
 	path = bmi-calc-extended
 	url = https://github.com/tom-wasi/bmi-calc-ext.git
 
-[submodule "kotlin-exercises"]
-	path = kotlin-exercises
+[submodule "kotlin-practice"]
+	path = kotlin-practice
 	url = https://github.com/tom-wasi/kotlin-exercise.git
