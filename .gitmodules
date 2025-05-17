@@ -9,3 +9,7 @@
 [submodule "kotlin-practice"]
 	path = kotlin-practice
 	url = https://github.com/tom-wasi/kotlin-exercise.git
+
+[submodule "bmi-calc-kotlin"]
+	path = bmi-calc-kotlin
+	url = https://github.com/tom-wasi/bmi-calc-kotlin.git
